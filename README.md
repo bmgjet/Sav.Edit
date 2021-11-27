@@ -16,3 +16,4 @@
 </ul>
 <p><br /><a href="https://gifyu.com/image/S28Qt" target="_blank">GIF Video</a></p>
 <p>Password in the zipped readme.txt<img src="https://i.ibb.co/xj1CYhc/savedit.png" alt="" /></p>
+Virus Total Report: <a href="https://www.virustotal.com/gui/file/17c86148b752f0bf8a71e64e65cce5720c00a6fd0583acc4629627f875be8660" target="_blank">Report</a>

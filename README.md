@@ -17,3 +17,31 @@
 <p><br /><a href="https://gifyu.com/image/S28Qt" target="_blank">GIF Video</a></p>
 <p>Password in the zipped readme.txt<img src="https://i.ibb.co/xj1CYhc/savedit.png" alt="" /></p>
 Virus Total Report: <a href="https://www.virustotal.com/gui/file/17c86148b752f0bf8a71e64e65cce5720c00a6fd0583acc4629627f875be8660" target="_blank">Report</a>
+<br>
+<br>
+<br>
+<h2>Installation/Usage Steps</h2>
+<h3>Pre Requisite for password protected zip file</h3>
+<li>Download and install unzip app which accepts a password to unzip, such as WinRar.
+
+<h3>Installation</h3>
+<li>Download SavEditor.zip
+<li>Unzip with password
+
+<h3>Usage</h3>
+Aquire player sav file data
+<li>Stop server
+<li>Back up latest .sav file on server
+
+Aquire new map sav file data
+<li>Start server with new map file
+<li>Once new .sav file is generated. Stop server
+
+Import player data to new map sav
+<li>Open new .sav file in Sav Editor
+<li>Import old .sav file back up
+<li>Save sav file
+
+Transfer Sav Edit generated sav file to server
+<li>Move .sav file to server
+<li>Start server.

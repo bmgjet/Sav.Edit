@@ -20,13 +20,10 @@ Virus Total Report: <a href="https://www.virustotal.com/gui/file/17c86148b752f0b
 <br>
 <br>
 <br>
-<h2>Installation/Usage Steps</h2>
-<h3>Pre Requisite for password protected zip file</h3>
-<li>Download and install unzip app which accepts a password to unzip, such as WinRar.
 
 <h3>Installation</h3>
 <li>Download SavEditor.zip
-<li>Unzip with password
+<li>Unzip into server managed folder or rust edits managed folder since it requires files.
 
 <h3>Usage</h3>
 Aquire player sav file data

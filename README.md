@@ -23,7 +23,7 @@ Virus Total Report: <a href="https://www.virustotal.com/gui/file/17c86148b752f0b
 
 <h3>Installation</h3>
 <li>Download SavEditor.zip
-<li>Unzip into server managed folder or rust edits managed folder since it requires files.
+<li>Unzip into windows install of rust servers managed folder since it requires files. Example "C:\Rust\RustDedicated_Data\Managed\"
 
 <h3>Usage</h3>
 Aquire player sav file data

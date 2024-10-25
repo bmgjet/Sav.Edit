@@ -1,3 +1,6 @@
+Replaced By
+https://github.com/bmgjet/SavMerge/
+
 <h3><img src="https://i.ibb.co/5FnTZgy/Sav-Editor.png" alt="" /></h3>
 <h3>Sav editor is a program for editing and repairing .Sav files from Rust servers.</h3>
 <h2>Features:</h2>
